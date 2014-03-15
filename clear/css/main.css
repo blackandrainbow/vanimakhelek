@@ -126,11 +126,11 @@
 	font-size: 12pt;
 	text-transform: none;
 	text-decoration: none;
-	-webkit-box-shadow: 0px 6px 0px #d8d8d8;
-	-moz-box-shadow: 0px 6px 0px #d8d8d8;
-	box-shadow: 0px 6px 0px #d8d8d8;
+	-webkit-box-shadow: 0px 6px 0px #0a2c28;
+	-moz-box-shadow: 0px 6px 0px #0a2c28;
+	box-shadow: 0px 6px 0px #0a2c28;
 	color: #fff;
-	border-bottom: 3px solid #000000;
+	/*border-bottom: 3px solid #0a2c28;*/
 	letter-spacing: 1px;
 	cursor: pointer;
 	line-height: 100%;
