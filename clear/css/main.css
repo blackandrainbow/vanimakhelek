@@ -161,7 +161,8 @@
 .above {
 	font-family: Facit-Bold;
 	text-transform: uppercase;
-	font-size: 36pt;
+	text-align: center;
+	font-size: 30pt;
 	color: #164d46;
 	padding-top: 20px;
 }
