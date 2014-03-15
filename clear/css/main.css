@@ -131,6 +131,10 @@
 	width: 280px;
 	border: 4px solid #ccc;
 	box-shadow: none;
+	padding-top: 6px;
+	padding-left:20px;
+	color: #363636;
+
 }
 .top-section .right .top-right .under a{
 	display:inline-block;
