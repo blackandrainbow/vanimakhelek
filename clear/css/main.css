@@ -79,6 +79,7 @@
 
 .clear-page{
 	margin:0 auto;
+	font-family:Facit;
 }
 .clear{
 	clear:both;
@@ -135,25 +136,24 @@
 }
 .top-section .right .top-right{
 	color:#fff;
+	width:375px;
 }
 .top-section .right .top-right .box{
 
 }
 .top-section .right .top-right .box h1{
-	font-size:66pt;
-	font-family:Facit;
+	font-size:43pt;
 	font-style:italic;
 }
 .top-section .right .top-right .box h3{
-	font-size:30pt;
-	font-family:Facit;
+	font-size:20pt;
 	font-style:italic;
 }
 .top-section .right .top-right .under{
 
 }
 .top-section .right .top-right .under h4{
-	font-size:24pt;
+	font-size:15pt;
 }
 .top-section .right .top-right .under h5{
 
