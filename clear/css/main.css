@@ -59,10 +59,11 @@
 	margin:0 auto;
 }
 .header .tiles li{
-	padding:10px;
+	padding:10px 20px;
 	display:table-cell;
 	font-weight:bold;
 	text-align:center;
+	cursor:pointer;
 	transition:color .2s ease-out, background 1s ease-in;
 }
 .header .tiles li:hover{
