@@ -2,6 +2,9 @@
 	width:1200px;
 	margin:0 auto;
 }
+.clear{
+	clear:both;
+}
 .header-wrapper{
 	background: #5eaf44; /* Old browsers */
 	background: -moz-linear-gradient(top,  #5eaf44 0%, #4c8e37 100%); /* FF3.6+ */
@@ -24,39 +27,39 @@
 	padding:5px;
 	display:table-cell;
 }
-.top{
+.top-section{
 
 }
-.top .left{
+.top-section .left{
 	float:left;
 }
-.top .right{
+.top-section .right{
 	float:right;
 }
-.top .right .top-right{
+.top-section .right .top-right{
 
 }
-.top .right .top-right .box{
+.top-section .right .top-right .box{
 
 }
-.top .right .top-right .box h1{
+.top-section .right .top-right .box h1{
 
 }
-.top .right .top-right .box h3{
+.top-section .right .top-right .box h3{
 
 }
-.top .right .top-right .under{
+.top-section .right .top-right .under{
 
 }
-.top .right .top-right .under h4{
+.top-section .right .top-right .under h4{
 
 }
-.top .right .top-right .under h5{
+.top-section .right .top-right .under h5{
 
 }
-.top .right .top-right .under input{
+.top-section .right .top-right .under input{
 
 }
-.top .right .top-right .under a{
+.top-section .right .top-right .under a{
 
 }
