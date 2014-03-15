@@ -160,7 +160,12 @@
 }
 .above {
 	font-family: Facit-ExtralightItalic;
-	font-size: 48px;
+	font-size: 48pt;
 	color: #363636;
 	padding-top: 20px;
+}
+.middle .top .left .box h1{
+	font-family: Facit-ExtralightItalic;
+	font-size: 36pt;
+	color: #4c8e37;
 }
