@@ -101,16 +101,19 @@
 	font-size:20pt;
 	font-style:italic;
 	font-family: Facit-LightItalic;
+	padding-bottom:15px;
 }
 .top-section .right .top-right .under{
-
+	padding-top:20px;
 }
 .top-section .right .top-right .under h4{
 	font-size:15pt;
 	font-family: Facit-Bold;
+	letter-spacing:1px;
 }
 .top-section .right .top-right .under h5{
-
+	font-size:12pt;
+	font-family:Facit-LightItalic;
 }
 .top-section .right .top-right .under input{
 
