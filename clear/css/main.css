@@ -22,12 +22,15 @@
 .header .tiles{
 	display:table;
 	width:1200px;
+	margin:0 auto;
 }
 .header .tiles li{
 	padding:5px;
 	display:table-cell;
 }
 .top-section{
+	width:1200px;
+	margin:0 auto;
 	margin-top:80px;
 }
 .top-section .left{
