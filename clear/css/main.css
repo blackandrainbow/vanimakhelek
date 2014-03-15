@@ -119,7 +119,7 @@
 
 }
 .top-section .right .top-right .under a{
-	display:block;
+	display:inline-block;
 	background-color: #f1f1f1;
 	color: #363636;
 	border: 0;
@@ -134,4 +134,5 @@
 	cursor: pointer;
 	line-height: 100%;
 	padding: 20px 30px 17px 30px;
+	margin-top:12px;
 }
