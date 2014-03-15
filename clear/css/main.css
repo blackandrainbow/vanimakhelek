@@ -1,5 +1,4 @@
 .clear-page{
-	width:1200px;
 	margin:0 auto;
 }
 .clear{
@@ -22,13 +21,14 @@
 }
 .header .tiles{
 	display:table;
+	width:1200px;
 }
 .header .tiles li{
 	padding:5px;
 	display:table-cell;
 }
 .top-section{
-
+	margin-top:80px;
 }
 .top-section .left{
 	float:left;
