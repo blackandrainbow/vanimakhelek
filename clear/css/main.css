@@ -6,10 +6,11 @@
 
 }
 .header .tiles{
-	display:inline-block;
+
 }
 .header .tiles li{
 	padding:5px;
+	display:inline-block;
 }
 .top{
 
