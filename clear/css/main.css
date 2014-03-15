@@ -48,10 +48,14 @@
 	background: rgba(255, 255, 255, 0.6);
 	border-opacity:0.9;
 	border-bottom:6px solid #eee;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10;
 }
 .header .tiles{
 	display:table;
-	width:1200px;
+	/*width:1200px;*/
 	margin:0 auto;
 }
 .header .tiles li{
@@ -67,7 +71,7 @@
 .top-section{
 	width:1200px;
 	margin:0 auto;
-	margin-top:80px;
+	padding-top:80px;
 }
 .top-section .left{
 	float:left;
