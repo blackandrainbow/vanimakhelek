@@ -1,3 +1,5 @@
+@import "http://webfonts.justanotherfoundry.com/Facit/";
+
 .clear-page{
 	margin:0 auto;
 }
@@ -33,6 +35,7 @@
 	width:1200px;
 	margin:0 auto;
 	margin-top:80px;
+	font-family:FacitWeb;
 }
 .top-section .left{
 	float:left;
@@ -55,22 +58,24 @@
 	float:right;
 }
 .top-section .right .top-right{
-
+	color:#fff;
 }
 .top-section .right .top-right .box{
 
 }
 .top-section .right .top-right .box h1{
-
+	font-size:66pt;
+	font-style:italic;
 }
 .top-section .right .top-right .box h3{
-
+	font-size:30pt;
+	font-style:italic;
 }
 .top-section .right .top-right .under{
 
 }
 .top-section .right .top-right .under h4{
-
+	font-size:24pt;
 }
 .top-section .right .top-right .under h5{
 
