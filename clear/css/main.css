@@ -1,5 +1,82 @@
 @import "http://webfonts.justanotherfoundry.com/Facit/";
 
+@font-face{
+	font-family: Facit-Bold;
+	src: url(clear/font/Facit/Facit-Bold.otf);
+	font-family: Facit-BoldItalic;
+	src: url(clear/font/Facit/Facit-BoldItalic.otf);
+	font-family: Facit-Extrabold;
+	src: url(clear/font/Facit/Facit-Extrabold.otf);
+	font-family: Facit-ExtraboldItalic;
+	src: url(clear/font/Facit/Facit-ExtraboldItalic.otf);
+	font-family: Facit-Extralight;
+	src: url(clear/font/Facit/Facit-Extralight.otf);
+	font-family: Facit-ExtralightItalic;
+	src: url(clear/font/Facit/Facit-ExtralightItalic.otf);
+	font-family: Facit-Light;
+	src: url(clear/font/Facit/Facit-Light.otf);
+	font-family: Facit-LightItalic;
+	src: url(clear/font/Facit/Facit-LightItalic.otf);
+	font-family: Facit;
+	src: url(clear/font/Facit/Facit-Regular.otf);
+	font-family: Facit-RegularItalic;
+	src: url(clear/font/Facit/Facit-RegularItalic.otf);
+	font-family: Facit-Semibold;
+	src: url(clear/font/Facit/Facit-Semibold.otf);
+	font-family: Facit-SemiboldItalic;
+	src: url(clear/font/Facit/Facit-SemiboldItalic.otf);
+}
+
+/*
+@font-face {
+	font-family: Facit-Bold;
+	src: url(clear/font/Facit/Facit-Bold.otf);
+}
+@font-face {
+	font-family: Facit-BoldItalic;
+	src: url(clear/font/Facit/Facit-BoldItalic.otf);
+}
+@font-face {
+	font-family: Facit-Extrabold;
+	src: url(clear/font/Facit/Facit-Extrabold.otf);
+}
+@font-face {
+	font-family: Facit-ExtraboldItalic;
+	src: url(clear/font/Facit/Facit-ExtraboldItalic.otf);
+}
+@font-face {
+	font-family: Facit-Extralight;
+	src: url(clear/font/Facit/Facit-Extralight.otf);
+}
+@font-face {
+	font-family: Facit-ExtralightItalic;
+	src: url(clear/font/Facit/Facit-ExtralightItalic.otf);
+}
+@font-face {
+	font-family: Facit-Light;
+	src: url(clear/font/Facit/Facit-Light.otf);
+}
+@font-face {
+	font-family: Facit-LightItalic;
+	src: url(clear/font/Facit/Facit-LightItalic.otf);
+}
+@font-face {
+	font-family: Facit;
+	src: url(clear/font/Facit/Facit-Regular.otf);
+}
+@font-face {
+	font-family: Facit-RegularItalic;
+	src: url(clear/font/Facit/Facit-RegularItalic.otf);
+}
+@font-face {
+	font-family: Facit-Semibold;
+	src: url(clear/font/Facit/Facit-Semibold.otf);
+}
+@font-face {
+	font-family: Facit-SemiboldItalic;
+	src: url(clear/font/Facit/Facit-SemiboldItalic.otf);
+}*/
+
 .clear-page{
 	margin:0 auto;
 }
@@ -35,7 +112,6 @@
 	width:1200px;
 	margin:0 auto;
 	margin-top:80px;
-	font-family:FacitWeb;
 }
 .top-section .left{
 	float:left;
@@ -65,10 +141,12 @@
 }
 .top-section .right .top-right .box h1{
 	font-size:66pt;
+	font-family:Facit;
 	font-style:italic;
 }
 .top-section .right .top-right .box h3{
 	font-size:30pt;
+	font-family:Facit;
 	font-style:italic;
 }
 .top-section .right .top-right .under{
