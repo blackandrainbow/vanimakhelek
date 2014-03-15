@@ -17,7 +17,7 @@
 .header{
 	background: rgba(255, 255, 255, 0.6);
 	border-opacity:0.9;
-	border-bottom:6px solid #ccc;
+	border-bottom:6px solid #eee;
 }
 .header .tiles{
 	display:table;
@@ -25,8 +25,9 @@
 	margin:0 auto;
 }
 .header .tiles li{
-	padding:5px;
+	padding:10px;
 	display:table-cell;
+	font-weight:bold;
 }
 .top-section{
 	width:1200px;
@@ -35,6 +36,20 @@
 }
 .top-section .left{
 	float:left;
+}
+.top-section .left .monitor{
+	z-index:1;
+}
+.top-section .left .phone{
+	margin-left: -90px;
+	margin-top: 210px;
+	z-index: 3;
+	position: relative;
+}
+.top-section .left .circle{
+	margin-top: -148px;
+	margin-left: -95px;
+	z-index: 2;
 }
 .top-section .right{
 	float:right;
