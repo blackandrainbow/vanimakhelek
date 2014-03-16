@@ -55,7 +55,6 @@
 }
 .header .tiles{
 	display:table;
-	/*width:1200px;*/
 	margin:0 auto;
 }
 .header .tiles li{
@@ -166,6 +165,17 @@
 	color: #164d46;
 	padding: 30px 0px;
 	border-bottom: solid 1px #e1e1e1;
+}
+.middle .top,
+.middle .bottom{
+	width:1200px;
+	margin:0 auto;
+}
+.middle .top .left{
+	float: left;
+}
+.middle .top .right{
+	float: right;
 }
 .middle .top .left .box h1, 
 .middle .top .right .box h1{
