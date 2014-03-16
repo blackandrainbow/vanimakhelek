@@ -178,9 +178,10 @@
 	font-family: Facit-Light;
 	font-size: 16pt;
 	color: #898989;
+	line-height:2pt;
 }
 
-.middle .top .left .box p .green-bold{
+.middle .top .left .box .green-bold{
 	font-family: Facit-Bold;
 	color: #4c8e37;
 }
