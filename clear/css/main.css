@@ -200,3 +200,9 @@
 .bottom .right .item .icon-left{
 	color: #4c8e37;
 }
+
+.call-now-section .left{
+	font-family: Facit-Italic;
+	color: #f1f1f1;
+	font-size: 32pt;
+}
