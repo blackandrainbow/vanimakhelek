@@ -167,21 +167,31 @@
 	padding: 30px 0px;
 	border-bottom: solid 1px #e1e1e1;
 }
-.middle .top .left .box h1, .middle .top .right .box h1{
+.middle .top .left .box h1, 
+.middle .top .right .box h1{
 	font-family: Facit-ExtralightItalic;
 	font-size: 32pt;
 	color: #4c8e37;
 	padding: 25px 0px 15px 0px;
 }
 
-.middle .top .left .box p, .middle .top .right .box p{
+.middle .top .left .box p, 
+.middle .top .right .box p{
 	font-family: Facit-Light;
 	font-size: 16pt;
 	color: #898989;
 	line-height:1.2em;
 }
 
-.middle .top .left .box .green-bold, .middle .top .right .box .green-bold{
+.middle .top .left .box .green-bold, 
+.middle .top .right .box .green-bold, 
+.bottom .left .item .text-right .green-bold{
 	font-family: Facit-Bold;
 	color: #4c8e37;
+}
+
+.bottom .left .item. .text-right,
+.bottom .right .item. .text-right{
+	font-family: Facit-Extralight;
+	color: #363636;
 }
