@@ -197,9 +197,8 @@
 	line-height:1.2em;
 }
 
-.middle .top .left .box .green-bold, 
-.middle .top .right .box .green-bold, 
-.bottom .left .item .text-right .green-bold{
+.middle .bottom .left .item .text-right .green-bold,
+.middle .bottom .right .item .text-right .green-bold{
 	font-family: Facit-Bold;
 	color: #4c8e37;
 }
@@ -225,7 +224,7 @@
 .middle .bottom .left .item .icon-left,
 .middle .bottom .right .item .icon-left{
 	float: left;
-	width:50px;
+	width:40px;
 }
 
 .middle .bottom .left .item .icon-left i,
