@@ -209,36 +209,43 @@
 }
 
 .middle .bottom .left{
-	float:left;
+	float: left;
+}
+
+.middle .bottom .right{
+	float: right;
 }
 
 .middle .bottom .left .item,
 .middle .bottom .right .item{
-	clear:both;
+	border-bottom:1px solid #e1e1e1;
 }
 
 .middle .bottom .left .item .icon-left,
 .middle .bottom .right .item .icon-left{
-	float:left;
+	float: left;
+}
+
+.middle .bottom .left .item .icon-left i,
+.middle .bottom .right .item .icon-left i{
+	margin-top:25px;
 }
 
 .middle .bottom .left .item .text-right,
 .middle .bottom .right .item .text-right{
-	float:left;
+	float: left;
+	text-align: left;
+	padding-left: 40px;
 }
 
-.middle .bottom .right{
-	float:right;
-}
-
-.bottom .left .item .text-right h1,
-.bottom .right .item .text-right h1{
+.middle .bottom .left .item .text-right h1,
+.middle .bottom .right .item .text-right h1{
 	font-family: Facit-Extralight;
 	color: #363636;
 }
 
-.bottom .left .item .icon-left,
-.bottom .right .item .icon-left{
+.middle .bottom .left .item .icon-left,
+.middle .bottom .right .item .icon-left{
 	color: #4c8e37;
 }
 
