@@ -181,7 +181,7 @@
 	line-height:1.2em;
 }
 
-.middle .top .left .box .green-bold{
+.middle .top .left .box .green-bold, .middle .top .right .box .green-bold{
 	font-family: Facit-Bold;
 	color: #4c8e37;
 }
