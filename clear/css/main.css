@@ -276,3 +276,25 @@ text-align: center;
 	color: #898989;
 	line-height: 1.2em;
 }
+
+.get-started .bottom h1{
+	font-family: Facit-ExtralightItalic;
+	font-size: 32pt;
+	color: #4c8e37;
+	padding: 25px 0px 15px 0px;
+	text-align: center;
+}
+
+.get-started .bottom p{
+	font-family: Facit-Light;
+	font-size: 16pt;
+	color: #898989;
+	line-height: 1.2em;
+}
+
+.footer p{
+	font-family: Facit;
+	font-style: italic;
+	color: #f1f1f1;
+	
+}
