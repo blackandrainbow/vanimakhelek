@@ -219,5 +219,12 @@
 .call-now-section .left p{
 	font-family: Facit-Light;
 	font-size: 14pt;
-	font-color: #f1f1f1;
+	color: #f1f1f1;
+	padding-top: 15px;
+}
+
+.call-now-section .right h3{
+	font-size: 15pt;
+	font-family: Facit-Bold;
+	letter-spacing: 1px;
 }
