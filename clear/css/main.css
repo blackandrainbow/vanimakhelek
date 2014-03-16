@@ -230,3 +230,10 @@
 	color: #f1f1f1;
 	line-height: .4em;
 }
+
+.call-now-section .right .or,
+.call-now-section .right .instructions{
+	font-size: 12pt;
+	font-family: Facit-LightItalic;
+	color: #f1f1f1;
+}
