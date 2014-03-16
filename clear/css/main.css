@@ -265,6 +265,15 @@
 	background: -ms-linear-gradient(top,  #5eaf44 0%,#4c8e37 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #5eaf44 0%,#4c8e37 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5eaf44', endColorstr='#4c8e37',GradientType=0 ); /* IE6-9 */
+	padding:40px 0;
+}
+
+.call-now-section .left{
+	float:left;
+}
+
+.call-now-section .right{
+	float:right;
 }
 
 .call-now-section .left h1{
