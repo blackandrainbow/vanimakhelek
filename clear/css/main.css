@@ -246,6 +246,19 @@
 	text-align: center;
 }
 
+.get-started .top p{
+font-family: Facit-Light;
+font-size: 16pt;
+color: #898989;
+line-height: 1.2em;
+text-align: center;
+}
+
+.get-started .top .green-itallic{
+	font-style: italic;
+	color: #4c8e37;
+}
+
 .get-started .middle .col .step .step-text p,
 .get-started .middle .col .col-title{
 	font-family: Facit-Bold;
@@ -254,5 +267,5 @@
 }
 
 .get-started .middle .col .step .step-text .num{
-	font-size: 40pt;
+	font-size: 32pt;
 }
