@@ -171,6 +171,10 @@
 	width:1200px;
 	margin:0 auto;
 }
+.middle .top{
+	border-bottom: 1px solid #e1e1e1;
+	padding-bottom: 45px;
+}
 .middle .top .left{
 	float: left;
 }
@@ -198,6 +202,18 @@
 .bottom .left .item .text-right .green-bold{
 	font-family: Facit-Bold;
 	color: #4c8e37;
+}
+
+.middle .bottom{
+
+}
+
+.middle .bottom .left{
+	float:left;
+}
+
+.middle .bottom .right{
+	float:right;
 }
 
 .bottom .left .item .text-right h1,
