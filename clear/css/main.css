@@ -237,3 +237,18 @@
 	font-family: Facit-LightItalic;
 	color: #f1f1f1;
 }
+
+.get-started .top h1{
+	font-family: Facit-ExtralightItalic;
+	font-size: 32pt;
+	color: #4c8e37;
+	padding: 25px 0px 15px 0px;
+	text-align: center;
+}
+
+.get-started .middle .col .step-text p,
+.get-started .middle .col .col-title{
+	font-family: Facit-Bold;
+	font-size: 14pt;
+	color:#164d46;
+}
