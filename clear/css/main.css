@@ -269,3 +269,10 @@ text-align: center;
 .get-started .middle .col .step .step-text .num{
 	font-size: 32pt;
 }
+
+.get-started .middle .col-content p{
+	font-family: Facit-Light;
+	font-size: 16pt;
+	color: #898989;
+	line-height: 1.2em;
+}
