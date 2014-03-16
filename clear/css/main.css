@@ -268,11 +268,16 @@
 	padding:40px 0;
 }
 
-.call-now-section .left{
+.call-now-section .wrapper{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.call-now-section .wrapper .left{
 	float:left;
 }
 
-.call-now-section .right{
+.call-now-section .wrapper .right{
 	float:right;
 }
 
