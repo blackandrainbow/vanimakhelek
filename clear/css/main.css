@@ -429,6 +429,10 @@
 	line-height: 27px;
 }
 
+.get-started .bottom{
+	padding-bottom:50px;
+}
+
 .get-started .bottom h1{
 	font-family: Facit-ExtralightItalic;
 	font-size: 32pt;
@@ -459,5 +463,5 @@
 	color: #f1f1f1;
 	font-size: 32pt;
 	text-align: center;
-
+	padding-top:10px;
 }
