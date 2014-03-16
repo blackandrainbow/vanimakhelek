@@ -175,7 +175,12 @@
 }
 
 .middle .top .left .box p{
-	font-family: Facit;
+	font-family: Facit-Light;
 	font-size: 16pt;
-	color: #464646;
+	color: #898989;
+}
+
+.green-bold{
+	font-family: Facit-Bold;
+	color: #4c8e37;
 }
