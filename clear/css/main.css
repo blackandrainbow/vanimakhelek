@@ -224,7 +224,7 @@
 
 .middle .bottom .left .item .text-right,
 .middle .bottom .right .item .text-right{
-	float:right;
+	float:left;
 }
 
 .middle .bottom .right{
