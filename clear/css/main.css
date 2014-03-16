@@ -276,7 +276,7 @@
 .call-now-section .wrapper .left{
 	float:left;
 	width:800px;
-	padding: 0 100px 64px 0;
+	padding: 0 100px 57px 0;
 	border-right:1px solid rgba(255, 255, 255, 0.2);
 	line-height:33px;
 }
@@ -337,7 +337,7 @@
 	padding-top: 6px;
 	padding-left:20px;
 	color: #363636;
-	font-size:15pt;
+	font-size:13pt;
 	font-family:Facit-LightItalic;
 	margin-bottom: 10px;
 }
