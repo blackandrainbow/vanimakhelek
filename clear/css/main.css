@@ -246,13 +246,13 @@
 	text-align: center;
 }
 
-.get-started .middle .col .step-text p,
+.get-started .middle .col .step .step-text p,
 .get-started .middle .col .col-title{
 	font-family: Facit-Bold;
 	font-size: 14pt;
 	color:#164d46;
 }
 
-.get-started .middle .col .step-text .num p{
+.get-started .middle .col .step .step-text .num p{
 	font-size: 40pt;
 }
