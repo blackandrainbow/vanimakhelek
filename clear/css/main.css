@@ -212,6 +212,21 @@
 	float:left;
 }
 
+.middle .bottom .left .item,
+.middle .bottom .right .item{
+	clear:both;
+}
+
+.middle .bottom .left .item .icon-left,
+.middle .bottom .right .item .icon-left{
+	float:left;
+}
+
+.middle .bottom .left .item .text-right,
+.middle .bottom .right .item .text-right{
+	float:right;
+}
+
 .middle .bottom .right{
 	float:right;
 }
