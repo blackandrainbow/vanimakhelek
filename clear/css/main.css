@@ -171,10 +171,11 @@
 	font-family: Facit-ExtralightItalic;
 	font-size: 32pt;
 	color: #4c8e37;
-	padding: 30px 0px 15px 0px;
+	padding: 25px 0px 15px 0px;
 }
 
 .middle .top .left .box p{
+	font-family: Facit;
 	font-size: 16pt;
-	color: #ccc;
+	color: #464646;
 }
