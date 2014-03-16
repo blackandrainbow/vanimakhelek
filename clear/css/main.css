@@ -167,9 +167,14 @@
 	padding: 30px 0px;
 	border-bottom: solid 1px #e1e1e1;
 }
-.middle .top .left .box h1{
+.middle .top .left .right .box h1{
 	font-family: Facit-ExtralightItalic;
 	font-size: 32pt;
 	color: #4c8e37;
-	padding: 30px 0px;
+	padding: 30px 0px 15px 0px;
+}
+
+.middle .top .left .right .box p{
+	font-size: 16pt;
+	color: #ccc;
 }
