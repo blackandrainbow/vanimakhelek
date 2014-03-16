@@ -333,6 +333,26 @@
 	font-family:Facit-LightItalic;
 }
 
+.call-now-section .right .form a{
+	display:inline-block;
+	background-color: #164d46;
+	color: #363636;
+	border: 0;
+	font-size: 15pt;
+	text-transform: none;
+	text-decoration: none;
+	-webkit-box-shadow: 0px 6px 0px #0a2c28;
+	-moz-box-shadow: 0px 6px 0px #0a2c28;
+	box-shadow: 0px 6px 0px #0a2c28;
+	color: #fff;
+	letter-spacing: 1px;
+	cursor: pointer;
+	line-height: 100%;
+	padding: 21px 40px 16px 40px;
+	margin-top:12px;
+	font-family: Facit-Bold;
+}
+
 .get-started .top h1{
 	font-family: Facit-ExtralightItalic;
 	font-size: 32pt;
