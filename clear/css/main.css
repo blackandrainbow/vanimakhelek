@@ -417,6 +417,10 @@
 	font-size: 16pt;
 	color: #898989;
 	line-height: 1.2em;
+	width:260px;
+	margin:0 auto;
+	padding-top: 15px;
+	line-height: 27px;
 }
 
 .get-started .bottom h1{
