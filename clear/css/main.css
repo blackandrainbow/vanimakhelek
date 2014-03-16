@@ -225,6 +225,7 @@
 .middle .bottom .left .item .icon-left,
 .middle .bottom .right .item .icon-left{
 	float: left;
+	width:50px;
 }
 
 .middle .bottom .left .item .icon-left i,
