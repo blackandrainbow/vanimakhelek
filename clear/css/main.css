@@ -202,7 +202,15 @@
 }
 
 .call-now-section .left h1{
-	font-family: Facit-RegularItalic;
+	font-family: Facit;
+	font-style: italic;
 	color: #f1f1f1;
 	font-size: 32pt;
+}
+
+.call-now-section .left h3{
+	font-family: Facit-LightItalic;
+	font-size: 24pt;
+	color: #f1f1f1;
+	font-style: italic;
 }
