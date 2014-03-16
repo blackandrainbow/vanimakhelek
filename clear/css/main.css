@@ -205,6 +205,7 @@
 
 .middle .bottom{
 	border-bottom:1px solid #e1e1e1;
+	margin-bottom:80px;
 }
 
 .middle .bottom .left{
@@ -253,6 +254,17 @@
 .middle .bottom .left .item .icon-left,
 .middle .bottom .right .item .icon-left{
 	color: #4c8e37;
+}
+
+.call-now-section{
+	background: #5eaf44; /* Old browsers */
+	background: -moz-linear-gradient(top,  #5eaf44 0%, #4c8e37 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5eaf44), color-stop(100%,#4c8e37)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #5eaf44 0%,#4c8e37 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #5eaf44 0%,#4c8e37 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #5eaf44 0%,#4c8e37 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #5eaf44 0%,#4c8e37 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5eaf44', endColorstr='#4c8e37',GradientType=0 ); /* IE6-9 */
 }
 
 .call-now-section .left h1{
