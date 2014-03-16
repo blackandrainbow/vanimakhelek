@@ -275,10 +275,12 @@
 
 .call-now-section .wrapper .left{
 	float:left;
+	width:700px;
 }
 
 .call-now-section .wrapper .right{
 	float:right;
+	width:300px;
 }
 
 .call-now-section .left h1{
