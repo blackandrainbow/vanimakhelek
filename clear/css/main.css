@@ -204,7 +204,7 @@
 }
 
 .middle .bottom{
-
+	border-bottom:1px solid #e1e1e1;
 }
 
 .middle .bottom .left{
@@ -219,6 +219,11 @@
 .middle .bottom .right .item{
 	border-bottom:1px solid #e1e1e1;
 	padding:20px 0;
+}
+
+.middle .bottom .left .item:last-child,
+.middle .bottom .right .item:last-child{
+	border-bottom:0;
 }
 
 .middle .bottom .left .item .icon-left,
