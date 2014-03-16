@@ -196,6 +196,7 @@
 	color: #363636;
 }
 
-.bottom .left .item .icon-left{
+.bottom .left .item .icon-left,
+.bottom .right .item .icon-left{
 	color: #4c8e37;
 }
