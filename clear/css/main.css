@@ -329,14 +329,14 @@
 .call-now-section .left h1{
 	font-family: Facit;
 	font-style: italic;
-	color: #f1f1f1;
+	color: #fff;
 	font-size: 32pt;
 }
 
 .call-now-section .left h3{
 	font-family: Facit-LightItalic;
 	font-size: 18pt;
-	color: #f1f1f1;
+	color: #fff;
 	font-style: italic;
 	line-height: .4em;
 	margin-bottom:18px;
@@ -345,7 +345,7 @@
 .call-now-section .left p{
 	font-family: Facit-Light;
 	font-size: 14pt;
-	color: #f1f1f1;
+	color: #fff;
 	padding-top: 15px;
 }
 
@@ -353,7 +353,7 @@
 	font-size: 15pt;
 	font-family: Facit-Bold;
 	letter-spacing: 1px;
-	color: #f1f1f1;
+	color: #fff;
 	line-height: .4em;
 }
 
@@ -361,7 +361,7 @@
 .call-now-section .right .instructions{
 	font-size: 12pt;
 	font-family: Facit-LightItalic;
-	color: #f1f1f1;
+	color: #fff;
 }
 
 .call-now-section .right .form{
