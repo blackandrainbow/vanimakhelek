@@ -2,29 +2,29 @@
 
 @font-face{
 	font-family: Facit-Bold;
-	src: url(clear/font/Facit/Facit-Bold.otf);
+	src: url(/clear/font/Facit/Facit-Bold.otf);
 	font-family: Facit-BoldItalic;
-	src: url(clear/font/Facit/Facit-BoldItalic.otf);
+	src: url(/clear/font/Facit/Facit-BoldItalic.otf);
 	font-family: Facit-Extrabold;
-	src: url(clear/font/Facit/Facit-Extrabold.otf);
+	src: url(/clear/font/Facit/Facit-Extrabold.otf);
 	font-family: Facit-ExtraboldItalic;
-	src: url(clear/font/Facit/Facit-ExtraboldItalic.otf);
+	src: url(/clear/font/Facit/Facit-ExtraboldItalic.otf);
 	font-family: Facit-Extralight;
-	src: url(clear/font/Facit/Facit-Extralight.otf);
+	src: url(/clear/font/Facit/Facit-Extralight.otf);
 	font-family: Facit-ExtralightItalic;
-	src: url(clear/font/Facit/Facit-ExtralightItalic.otf);
+	src: url(/clear/font/Facit/Facit-ExtralightItalic.otf);
 	font-family: Facit-Light;
-	src: url(clear/font/Facit/Facit-Light.otf);
+	src: url(/clear/font/Facit/Facit-Light.otf);
 	font-family: Facit-LightItalic;
-	src: url(clear/font/Facit/Facit-LightItalic.otf);
+	src: url(/clear/font/Facit/Facit-LightItalic.otf);
 	font-family: Facit;
-	src: url(clear/font/Facit/Facit-Regular.otf);
+	src: url(/clear/font/Facit/Facit-Regular.otf);
 	font-family: Facit-RegularItalic;
-	src: url(clear/font/Facit/Facit-RegularItalic.otf);
+	src: url(/clear/font/Facit/Facit-RegularItalic.otf);
 	font-family: Facit-Semibold;
-	src: url(clear/font/Facit/Facit-Semibold.otf);
+	src: url(/clear/font/Facit/Facit-Semibold.otf);
 	font-family: Facit-SemiboldItalic;
-	src: url(clear/font/Facit/Facit-SemiboldItalic.otf);
+	src: url(/clear/font/Facit/Facit-SemiboldItalic.otf);
 }
 
 .clear-page{
