@@ -168,7 +168,7 @@
 }
 .middle .top,
 .middle .bottom{
-	width:1200px;
+	width:1100px;
 	margin:0 auto;
 }
 .middle .top{
@@ -269,13 +269,13 @@
 }
 
 .call-now-section .wrapper{
-	width: 1200px;
+	width: 1100px;
 	margin: 0 auto;
 }
 
 .call-now-section .wrapper .left{
 	float:left;
-	width:800px;
+	width:750px;
 	padding: 0 100px 57px 0;
 	border-right:1px solid rgba(255, 255, 255, 0.2);
 	line-height:33px;
@@ -396,7 +396,7 @@
 
 .get-started .middle{
 	display:table;
-	width:1200px;
+	width:1100px;
 	margin:0 auto;
 	text-align:center;
 	border-bottom: 1px solid #e1e1e1;
