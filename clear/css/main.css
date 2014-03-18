@@ -97,7 +97,8 @@
 	padding-bottom: 250px;
 	text-align: center;
 	font-family: Facit-RegularItalic;
-	font-size: 24pt;
+	font-size: 16pt;
+	line-height: 0.8em;
 }
 .top-section .left .circle-text h1{
 	font-family: Facit-Bold;
