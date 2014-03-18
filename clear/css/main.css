@@ -125,10 +125,9 @@
 	width: 196px;
 }
 .top-section .left .circle-text p{
-	font-family: Facit;
-	font-style: italic;
+	font-family: Facit-RegularItalic;
 	font-size: 13pt;
-	line-height: 0.7em;
+	line-height: 1em;
 	padding-bottom: 8px;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.9);
 }
