@@ -260,6 +260,7 @@
 .middle .bottom .right .item{
 	border-bottom:1px solid #e1e1e1;
 	padding:20px 0;
+	transition:background .2s ease-out, background 1s ease-in;
 }
 
 .middle .bottom .left .item:hover,
