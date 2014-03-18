@@ -27,6 +27,11 @@
 	src: url(/clear/font/Facit/Facit-SemiboldItalic.otf);
 }
 
+@font-face{
+	font-family: Facit-Bold;
+	src: url(/clear/font/Facit/Facit-Bold.otf);
+}
+
 .clear-page{
 	margin:0 auto;
 	font-family:Facit, Facit-Regular, Open-Sans, Sans serif;
