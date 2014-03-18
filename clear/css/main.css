@@ -176,7 +176,10 @@
 	color: #363636;
 	font-size:15pt;
 	font-family:Facit-LightItalic;
-
+	transition:color .2s ease-out, background .2s ease-in;
+}
+.top-section .right .top-right .under input[type="submit"]:hover{
+	background: rgba(255, 255, 255, .5)
 }
 .top-section .right .top-right .under a{
 	display:inline-block;
