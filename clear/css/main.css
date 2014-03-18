@@ -177,8 +177,8 @@
 	font-size:15pt;
 	font-family:Facit-LightItalic;
 }
-.top-section .right .top-right .under:hover{
-	background: rgba(255, 255, 255, .5)
+.top-section .right .top-right .under input:hover{
+	background: rgba(255, 255, 255, .5);
 }
 .top-section .right .top-right .under a{
 	display:inline-block;
