@@ -90,13 +90,13 @@
 	margin-left: -95px;
 	z-index: 2;
 	font-family: Facit-Extralight;
-	color: #164d46;
 }
 .top-section .left .circle-text{
 	margin-top: -365px;
 	margin-left: 528px;
 	padding-bottom: 250px;
 	text-align: center;
+	color: #164d46;
 }
 .top-section .left .circle-text p{
 	font-family: Facit;
