@@ -243,13 +243,13 @@
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src='clear/js/kkcountdown.min.js'></script>
 	<script>
-	var seconds = Math.round(new Date().getTime() / 1000);
-	$('#timer').attr('data-seconds', seconds);
-	$('#timer').kkcountdown({
-		dayText: '',
-		daysText: '',
-		displayZeroDays: false
-	});
+		var seconds = Math.round(new Date().getTime() / 1000);
+		$('#timer').attr('data-seconds', seconds);
+		$('#timer').kkcountdown({
+			dayText: '',
+			daysText: '',
+			displayZeroDays: false
+		});
 	</script>
   </body>
 </html>
