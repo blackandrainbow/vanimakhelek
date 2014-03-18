@@ -92,7 +92,7 @@
 	font-family: Facit-Extralight;
 }
 .top-section .left .circle-text{
-	margin-top: -355px;
+	margin-top: -365px;
 	margin-left: 528px;
 	padding-bottom: 250px;
 	text-align: center;
@@ -106,10 +106,11 @@
 .top-section .left .circle-text h1{
 	font-family: Facit-Bold;
 	line-height: 0.7em;
-	font-size: 24pt;
+	font-size: 28pt;
 }
 .top-section .left .circle-text #timer{
-
+	font-size: 16pt;
+	font-family: Facit-Bold;
 }
 .top-section .left .circle-text #timer .kkc-sec{
 	display:none;
