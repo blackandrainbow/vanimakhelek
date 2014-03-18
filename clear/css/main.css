@@ -84,7 +84,7 @@
 .header .tiles li{
 	padding:10px 32px;
 	display:table-cell;
-	font-weight:bold;
+	font-family:Facit-Bold;
 	text-align:center;
 	cursor:pointer;
 	transition:color .2s ease-out, background 1s ease-in;
@@ -172,7 +172,6 @@
 }
 .top-section .right .top-right .box h3{
 	font-size:20pt;
-	font-style:italic;
 	font-family: Facit-LightItalic;
 	padding-bottom:15px;
 }
@@ -372,7 +371,6 @@
 	font-family: Facit-LightItalic;
 	font-size: 18pt;
 	color: #fff;
-	font-style: italic;
 	line-height: .4em;
 	margin-bottom:18px;
 }
