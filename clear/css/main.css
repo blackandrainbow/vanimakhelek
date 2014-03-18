@@ -102,6 +102,9 @@
 .top-section .left .circle-text #timer .kkc-sec-text{
 	display:none;
 }
+.top-section .left .circle-text #timer .kkc-hours-text{
+	margin-right:7px;
+}
 .top-section .left .circle-text #timer .kkc-hours-text,
 .top-section .left .circle-text #timer .kkc-min-text{
 	text-transform: capitalize;
