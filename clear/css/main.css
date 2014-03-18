@@ -504,6 +504,10 @@
 	margin: 0 auto;
 	text-align: center;
 	line-height: 30px;
+	transition:color .2s ease-out, background .2s ease-in;
+}
+.get-started .bottom p:hover{
+	color: #5eaf44;
 }
 
 .footer{
