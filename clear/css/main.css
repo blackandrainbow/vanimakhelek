@@ -92,7 +92,7 @@
 	font-family: Facit-Extralight;
 }
 .top-section .left .circle-text{
-	margin-top: -365px;
+	margin-top: -350px;
 	margin-left: 528px;
 	padding-bottom: 250px;
 	text-align: center;
@@ -101,17 +101,17 @@
 .top-section .left .circle-text p{
 	font-family: Facit;
 	font-style: italic;
-	font-size: 12pt;
+	font-size: 14pt;
 	line-height: 0.7em;
 }
 .top-section .left .circle-text h1{
 	font-family: Facit-Bold;
 	line-height: 0.7em;
-	font-size: 28pt;
+	font-size: 30pt;
 	text-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
 }
 .top-section .left .circle-text #timer{
-	font-size: 18pt;
+	font-size: 20pt;
 	font-family: Facit-Bold;
 	text-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
 }
