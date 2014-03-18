@@ -248,9 +248,16 @@
 		console.log(tomorrow.getTime() / 1000);
 		var today = new Date();
 		console.log(today.getTime() / 1000);
-		var seconds = Math.round((tomorrow.getTime() / 1000) - (today.getTime() / 1000));
-		console.log('seconds - ' + seconds);
-		$('#timer').attr('data-seconds', seconds);
+
+
+		var hours = 23 - today.getHours();
+		var minutes = 60 - today.getHours();
+		var sec = 60 - today.getSeconds();
+
+		var allseconds = (hours * 60 * 60) + (minutes * 60) + sec;
+		//var seconds = Math.round((tomorrow.getTime() / 1000) - (today.getTime() / 1000));
+		console.log('seconds - ' + allseconds);
+		$('#timer').attr('data-seconds', allseconds);
 		$('#timer').kkcountdown({
 			dayText: '',
 			daysText: '',
