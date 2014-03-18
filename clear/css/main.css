@@ -504,10 +504,14 @@
 	margin: 0 auto;
 	text-align: center;
 	line-height: 30px;
+}
+.get-started .bottom a{
+	text-decoration:none;
+	color: #5eaf44;
 	transition:color .2s ease-out, background .2s ease-in;
 }
-.get-started .bottom p:hover{
-	color: #5eaf44;
+.get-started .bottom a:hover{
+	color: #1a5950;
 }
 
 .footer{
