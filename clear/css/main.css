@@ -288,7 +288,7 @@
 .middle .bottom .right .item .text-right{
 	float: left;
 	text-align: left;
-	padding-left: 40px;
+	padding-left: 30px;
 }
 
 .middle .bottom .left .item .text-right h1,
@@ -300,6 +300,7 @@
 .middle .bottom .left .item .icon-left,
 .middle .bottom .right .item .icon-left{
 	color: #4c8e37;
+	padding-left: 10px;
 }
 
 .call-now-section{
