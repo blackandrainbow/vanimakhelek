@@ -243,21 +243,13 @@
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src='clear/js/kkcountdown.min.js'></script>
 	<script>
-		var tomorrow = new Date();
-		tomorrow.setTime(tomorrow.getTime() + (1000*3600*24));
-		console.log(tomorrow.getTime() / 1000);
-		var today = new Date();
-		console.log(today.getTime() / 1000);
+		var today      = new Date();
+		var hours      = 23 - today.getHours();
+		var minutes    = 59 - today.getMinutes();
+		var sec        = 59 - today.getSeconds();
+		var totalseconds = (hours * 60 * 60) + (minutes * 60) + sec;
 
-
-		var hours = 23 - today.getHours();
-		var minutes = 59 - today.getMinutes();
-		var sec = 59 - today.getSeconds();
-
-		var allseconds = (hours * 60 * 60) + (minutes * 60) + sec;
-		//var seconds = Math.round((tomorrow.getTime() / 1000) - (today.getTime() / 1000));
-		console.log('seconds - ' + allseconds);
-		$('#timer').attr('data-seconds', allseconds);
+		$('#timer').attr('data-seconds', totalseconds);
 		$('#timer').kkcountdown({
 			dayText: '',
 			daysText: '',
