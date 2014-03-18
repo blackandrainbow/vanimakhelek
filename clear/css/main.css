@@ -475,12 +475,13 @@
 
 .get-started .middle .col-content p{
 	font-family: Facit-ExtraLight;
-	font-size: 15pt;
+	font-size: 14pt;
 	color: #898989;
 	line-height: 1.4em;
 	width:290px;
 	margin:0 auto;
 	padding-top: 15px;
+	text-align: justify;
 }
 
 .get-started .bottom{
