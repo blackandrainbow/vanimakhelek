@@ -45,9 +45,9 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5eaf44', endColorstr='#4c8e37',GradientType=0 ); /* IE6-9 */
 }
 .header{
-	background: rgba(255, 255, 255, 0.6);
+	background: rgba(255, 255, 255, 0.7);
 	border-opacity:0.9;
-	border-bottom:6px solid #eee;
+	border-bottom:6px solid rgba(255, 255, 255, 0.9);
 	position: fixed;
 	top: 0;
 	width: 100%;
