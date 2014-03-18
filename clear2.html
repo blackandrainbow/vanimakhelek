@@ -248,7 +248,7 @@
 		console.log(tomorrow.getTime() / 1000);
 		var today = new Date();
 		console.log(today.getTime() / 1000);
-		var seconds = (tomorrow.getTime() / 1000) - (today.getTime() / 1000);
+		var seconds = Math.round((tomorrow.getTime() / 1000) - (today.getTime() / 1000));
 		$('#timer').attr('data-seconds', seconds);
 		$('#timer').kkcountdown({
 			dayText: '',
