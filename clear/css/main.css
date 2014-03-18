@@ -482,7 +482,14 @@
 	margin:0 auto;
 	padding-top: 15px;
 }
-
+.get-started .middle .col-content a{
+	text-decoration:none;
+	color: #5eaf44;
+	transition:color .2s ease-out, background .2s ease-in;
+}
+.get-started .middle .col-content a:hover{
+	color: #1a5950;
+}
 .get-started .bottom{
 	padding-bottom:50px;
 }
