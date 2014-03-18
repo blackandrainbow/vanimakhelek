@@ -246,9 +246,9 @@
 		var tomorrow = new Date();
 		tomorrow.setTime(tomorrow.getTime() + (1000*3600*24));
 		console.log(tomorrow.getTime());
-		var today = new Date().getTime();
-		console.log(today);
-		var seconds = (tomorrow.getTime() - today / 1000);
+		var today = new Date();
+		console.log(today.getTime());
+		var seconds = (tomorrow.getTime() - today.getTime() / 1000);
 		$('#timer').attr('data-seconds', seconds);
 		$('#timer').kkcountdown({
 			dayText: '',
