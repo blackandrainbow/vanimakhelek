@@ -262,10 +262,9 @@
 	padding:20px 0;
 }
 
-.middle .bottom .left .item a,
-.middle .bottom .right .item a{
-	/*border-bottom:1px solid #e1e1e1;
-	padding:20px 0;*/
+.middle .bottom .left .item a:hover,
+.middle .bottom .right .item a:hover{
+	background:#f1f1f1;
 }
 
 .middle .bottom .left .item:last-child,
