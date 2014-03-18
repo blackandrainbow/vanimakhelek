@@ -90,6 +90,18 @@
 	margin-left: -95px;
 	z-index: 2;
 }
+.top-section .left .circle-text{
+
+}
+.top-section .left .circle-text #timer{
+
+}
+.top-section .left .circle-text #timer .kkc-sec{
+	display:none;
+}
+.top-section .left .circle-text #timer .kkc-sec-text{
+	display:none;
+}
 .top-section .right{
 	float:right;
 }
