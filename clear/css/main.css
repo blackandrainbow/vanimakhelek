@@ -89,6 +89,10 @@
 	margin-top: -148px;
 	margin-left: -95px;
 	z-index: 2;
+	font-family: Facit-Extralight;
+}
+.top-section .left .circle h2{
+	font-family: Facit-Bold;
 }
 .top-section .left .circle-text{
 	margin-top: -370px;
