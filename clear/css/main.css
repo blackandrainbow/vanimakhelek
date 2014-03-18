@@ -264,8 +264,8 @@
 
 .middle .bottom .left .item a,
 .middle .bottom .right .item a{
-	border-bottom:1px solid #e1e1e1;
-	padding:20px 0;
+	/*border-bottom:1px solid #e1e1e1;
+	padding:20px 0;*/
 }
 
 .middle .bottom .left .item:last-child,
