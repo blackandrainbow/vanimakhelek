@@ -91,14 +91,14 @@
 	z-index: 2;
 	font-family: Facit-Extralight;
 }
-.top-section .left .circle h2{
-	font-family: Facit-Bold;
-}
 .top-section .left .circle-text{
 	margin-top: -370px;
 	margin-left: 528px;
 	padding-bottom: 250px;
 	text-align: center;
+}
+.top-section .left .circle-text h2{
+	font-family: Facit-Bold;
 }
 .top-section .left .circle-text #timer{
 
